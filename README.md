@@ -1,7 +1,7 @@
 # lte5366py
 Zyxel LTE5366-M206 Keygen
 
-https://support.zyxel.eu/hc/en-us/articles/4403349814802-Advanced-Downloads-for-LTE-devices
+https://support.zyxel.eu/hc/en-us/articles/4403349814802-Advanced-Downloads-for-LTE-devices\
 This is from the /usr/sbin/commander that calls a bash-script genpass-ZyXEL.sh
 
 Usage: python3 lte5366.py S182Z12000374
